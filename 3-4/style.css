@@ -1,0 +1,20 @@
+/* リセットCSS */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    margin-top: 100px;
+    text-align: center;
+    font-family: serif;
+    color: white;
+    background-color: gray;
+}
+
+h1 {
+    margin-bottom: 50px;
+    border-bottom: solid 5px;
+    border-color: white;
+}
